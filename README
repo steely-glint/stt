@@ -1,0 +1,7 @@
+Experiment to see if google's translation uri (as used in chromium) can be used from a java applet. Qualified success. 
+
+I'm not making _any_ claims about any rights to use such a uri or about the quality or it's continued existance, you'll have to talk to google about that.
+
+An example of it running (and code to use the applet) can currently be found at http://api.phonefromhere.com/stt/test.html
+
+
